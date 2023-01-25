@@ -5,4 +5,4 @@
 - [Who would have thought](./posts/Who%20would%20have%20thought.md)
 - [Assuming it works](./posts/Assuming%20it%20works.md)
 - [The Game](./posts/The%20Game.md)
-- [Pretend its a constellation](.)
+- [Pretend its a constellation](./posts/Pretend%20its%20a%20constellation.md)
