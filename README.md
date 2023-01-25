@@ -1,5 +1,6 @@
 # Opening
-Hi, My name's Jill (the English version). I'm an algorithms' developer, and I work mainly in the field of satellite collection resources optimization.
+<img src="./images/the-expanse-cover.png" height="220" align=right style="border-radius:10%">
+Hi, My name's Jill. I'm an algorithms' engineer, and I work mainly in the field of satellite collection resources optimization.
 
 A short time ago, I started dealing in the subject of dividing satellite collection orders between constellations. This is an important project for me because I joined it (almost) from the beginning - at least the part where we started conceptualizing the solution that will solve this problem.
 
