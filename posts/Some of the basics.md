@@ -37,3 +37,9 @@ The product of an [observation satellite](#observation-satellite) is the image t
 
 ## Summary
 So these are the main terms you'll need to continue making your way through this blog. Let's get this ride on the road.
+
+
+---
+- [TOC](../TOC.md)
+- Previous post: [Some of the basics](./posts/Some%20of%20the%20basics.md)
+- Next post: [Assuming it works](./posts/Assuming%20it%20works.md)

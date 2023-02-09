@@ -61,3 +61,9 @@ It should also allow us the ability to add more constellations as we proceed - a
 On the other hand, the less good side of the separation into these modules is the reduction of quality of information passing between the sides. This means that our ability to plan accurately what each constellation can really take is worse than a more integrated system could probably perform. On the other hand, we noted that our rate of accuracy and quality doesn't have to be high, so we are willing to pay this cost in order to increase simplicity which hopefully will allow us to create a progressively better system as the years go by.
 
 As you can see, a large part of designing our system is based on the assumptions we make. We haven't really reached into how the different sections work, and we'll do so in the next posts!
+
+
+---
+- [TOC](../TOC.md)
+- Previous post: [Who would have thought](./posts/Who%20would%20have%20thought.md)
+- Next post: [The Game](./posts/The%20Game.md)

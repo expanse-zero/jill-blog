@@ -125,3 +125,7 @@ As you can see, there is a lot to talk about. Maybe even this post raises more q
 
 Be sure that there's a lot more to say about this design, and about what each component does - not all is answered, but there are some ideas and directions.
 We'll probably dive into these modules and what they mean later on (check the [TOC](../TOC.md)). I'll try to add links here as well.
+
+---
+- [TOC](../TOC.md)
+- Next post: [Assuming it works](./posts/Assuming%20it%20works.md)
