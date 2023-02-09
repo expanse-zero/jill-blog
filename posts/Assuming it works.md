@@ -3,7 +3,7 @@
 One of the important things one does when designing a system, and especially an algorithm, is to discuss the assumptions of the problem.
 
 ## What are assumptions
-These aren't exactly a part of the need for the system, but rather are inferred from the needs, and help us reach the correct solution. When it comes to algorithms, these assumptions will help us to research the different solutions people have come up with over the ages, and analyse whether they fit our assumptions or not.
+These aren't exactly a part of the need for the system, but rather are inferred from the needs, and help us reach the correct solution. When it comes to algorithms, these assumptions will help us to research the different solutions people have come up with over the ages, and analyze whether they fit our assumptions or not.
 
 ### An example
 For example, if we were to take the shortest path problem:
@@ -65,5 +65,5 @@ As you can see, a large part of designing our system is based on the assumptions
 
 ---
 - [TOC](../TOC.md)
-- Previous post: [Who would have thought](./posts/Who%20would%20have%20thought.md)
-- Next post: [The Game](./posts/The%20Game.md)
+- Previous post: [Who would have thought](./Who%20would%20have%20thought.md)
+- Next post: [The Game](./The%20Game.md)

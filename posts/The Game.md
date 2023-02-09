@@ -28,7 +28,7 @@ Each client has some allowance - which can be added to each day for instance, an
 #### PHASE 3 - Division
 [Phase 1](#PHASE-1---The-bidding-phase) and [phase 2](#PHASE-2---Client-update) can run until we reach a stable division, or until some other event - say a timeout.
 
-Then we distrbute the demands between all the brokers. Each broker gets back the bid price for the orders he did not recieve in the end. (optional)
+Then we distribute the demands between all the brokers. Each broker gets back the bid price for the orders he did not receive in the end. (optional)
 
 #### PHASE 4 - External update
 We get data from outside whether there was an update to an order - for instance if it was already taken, or if parts of an order (or mission?) that we thought were taken haven't been covered in the end.
@@ -46,7 +46,7 @@ Here we must take into account that some of the orders have been distributed alr
 This is actually [phase 0](#PHASE-0---preparation-phase), but with the addition that some orders have already been distributed.
 
 #### PHASE 6 - commit
-This phase is similar to [phase 3](#PHASE-3---Division), but it is real. Meaning that all orders are sent to the constellations, according to the division decided upon, and they are taken out of the order pool. The bounty placed on the orders is placed in the auctioneer-bank by the clients. It shall be given to the constellatio broker if the constellation succedds in taking it, and retured to the client if not.
+This phase is similar to [phase 3](#PHASE-3---Division), but it is real. Meaning that all orders are sent to the constellations, according to the division decided upon, and they are taken out of the order pool. The bounty placed on the orders is placed in the auctioneer-bank by the clients. It shall be given to the constellation broker if the constellation succeeds in taking it, and returned to the client if not.
 
 ### Game phases summary
 The game is never-ending, and the phases can run asynchronously even. But assuming a  linear game the phases would be something like this:
@@ -74,5 +74,5 @@ The advantage of treating it like an open market, is that it allows to conceptua
 
 ---
 - [TOC](../TOC.md)
-- Previous post: [Assuming it works](./posts/Assuming%20it%20works.md)
-- Next post: [Pretend its a constellation](./posts/Pretend%20its%20a%20constellation.md)
+- Previous post: [Assuming it works](./Assuming%20it%20works.md)
+- Next post: [Pretend its a constellation](./Pretend%20its%20a%20constellation.md)

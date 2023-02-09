@@ -77,7 +77,7 @@ This means that there is a lot of guesswork to be done in this system.
 
 One last major problem is the fact that most of the constellations are run on the WWW, while some are maintained within our secure network. This means that wherever we run our system, some of the constellations will not be connected to us, reducing the ability to get accurate data constantly.
 
-Instead of being connected to the real constellations therefore, we'll need to **simulate** them instead. Meaning based on our partial knowledge of each constellation, we need to guess how the functionalty we described above behaves. ^4f4fab
+Instead of being connected to the real constellations therefore, we'll need to **simulate** them instead. Meaning based on our partial knowledge of each constellation, we need to guess how the functionality we described above behaves. ^4f4fab
 
 We'll run our algorithm against these simulations, and only once in a while will we be able to communicate with the ***real world*** and update our assumptions.
 
@@ -92,9 +92,9 @@ So what are going to be the hard parts of creating these simulations?
 ### Variety
 There are SAR constellations, EO, Large constellations and boutique ones. Each has differing capabilities, scan modes, with ranges of swath, agility and number of satellites.
 
-Furthermore some constellations allow us to order more complex orders, for instance sterio, or large areas. While others need us to break down this orders into sub-orders.
+Furthermore some constellations allow us to order more complex orders, for instance stereo, or large areas. While others need us to break down this orders into sub-orders.
 
-Our simulation will need to replicate the capabilities of the real constellation, while allowing us to easily calculate capactiy, assess cost and simulate a plan of the real constellation.
+Our simulation will need to replicate the capabilities of the real constellation, while allowing us to easily calculate capacity, assess cost and simulate a plan of the real constellation.
 
 ### Types of data to base on
 In order to create a simulation, we need some real data to base it on. Otherwise we'll just be making vague guesses.
@@ -121,14 +121,14 @@ The constellation will be the ***advocate*** of the constellation during the pla
 - The current plans of the constellation
 Its functionality - from the side of the planning algorithm - will be:
 - Get accesses
-- Get remaing potential/capacity in areas for time-intervals
+- Get remaining potential/capacity in areas for time-intervals
 - Calculate the cost of taking some set of orders
 This last one can be used instead of a plan. It will allow us to understand potential remains to be used.
 
 ## Model ideas
 
 ### Capacity model
-A capacity model of a constellation, means we assess how much capacaty for orders the constellation has, this can be used to calculate the potential or remaining potential of a constellation given some set of promised orders.
+A capacity model of a constellation, means we assess how much capacity for orders the constellation has, this can be used to calculate the potential or remaining potential of a constellation given some set of promised orders.
 
 Data we use for modelling:
 **Activity windows:**
@@ -147,3 +147,8 @@ This will be more complicated since one constellation can have multiple types of
 The advantage of this model is that it can create a more accurate picture of the capabilities of the constellation - going far further than a simple capacity model.
 
 Another disadvantage is the fact that running this model will likely take up a lot of time during the planning phase.
+
+---
+- [TOC](../TOC.md)
+- Previous post: [The Game](./The%20Game.md)
+- Next post: [The known the unknown and the ugly](./The%20known%20the%20unknown%20and%20the%20ugly.md)

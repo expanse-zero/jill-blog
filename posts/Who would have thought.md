@@ -128,4 +128,4 @@ We'll probably dive into these modules and what they mean later on (check the [T
 
 ---
 - [TOC](../TOC.md)
-- Next post: [Assuming it works](./posts/Assuming%20it%20works.md)
+- Next post: [Assuming it works](./Assuming%20it%20works.md)
