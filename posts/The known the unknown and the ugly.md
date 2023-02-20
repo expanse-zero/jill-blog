@@ -126,4 +126,4 @@ I think that when you set about building a project from nothing, think of severa
 ---
 - [TOC](../TOC.md)
 - Previous post: [Pretend its a constellation](./Pretend%20its%20a%20constellation.md)
-- Next post: -
+- Next post: [Game host](./posts/Game%20host.md)
